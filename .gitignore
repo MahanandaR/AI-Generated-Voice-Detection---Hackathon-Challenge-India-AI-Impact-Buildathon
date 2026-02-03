@@ -1,0 +1,40 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+
+
+# ======================
+# Virtual Environments
+# ======================
+env/
+venv/
+.venv/
+
+# ======================
+# Jupyter / Notebooks
+# ======================
+.ipynb_checkpoints/
+*.ipynb
+
+# ======================
+# Audio / Dataset
+# ======================
+dataset/
+*.mp3
+*.wav
+*.m4a
+*.flac
+
+
+.vscode/
+
+# ======================
+# Environment / Secrets
+# ======================
+.env
+
+
+# Docker (optional)
+# ======================
+.dockerignore

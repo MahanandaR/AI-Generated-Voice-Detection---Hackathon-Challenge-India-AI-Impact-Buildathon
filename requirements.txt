@@ -1,0 +1,16 @@
+# fastapi
+# uvicorn
+# librosa
+# numpy
+# requests
+# python-multipart
+# pydub
+# ffmpeg-python
+
+fastapi
+uvicorn
+librosa
+soundfile
+numpy
+torch
+pydantic
